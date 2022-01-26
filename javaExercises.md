@@ -1,4 +1,4 @@
-- Symmetric difference. It takes a matrix consisting of an array of n (n > 1) arrays, and returns an array with numbers present in any of those arrays, but not in more than one array.
+- Unique numbers in a matrix. It takes a matrix consisting of an array of n (n > 1) arrays, and returns an array with numbers present in any of those arrays, but not in more than one array.
 
 ```java
 package difference;
